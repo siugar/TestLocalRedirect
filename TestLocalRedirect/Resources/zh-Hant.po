@@ -1,0 +1,5 @@
+﻿msgid "View.SummaryGet.Title"
+msgstr "在這頁面變更語言是沒有問題的"
+
+msgid "View.SummaryPost.Title"
+msgstr " 在這頁面變更語言會發生http error 405"
