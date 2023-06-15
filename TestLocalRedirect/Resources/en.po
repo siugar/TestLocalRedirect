@@ -2,5 +2,5 @@ msgid "View.SummaryGet.Title"
 msgstr "It's OK to change the language at this page"
 
 msgid "View.SummaryPost.Title"
-msgstr " it occurs http error 405 to change the language at this page"
+msgstr "It occurs "http error 405" after changing the language at this page"
 
